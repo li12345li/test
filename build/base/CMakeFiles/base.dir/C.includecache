@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/base/base_typedef.c
+stdio.h
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/base/stdio.h
+base_typedef.h
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/base/base_typedef.h
+
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/base/base_typedef.h
+

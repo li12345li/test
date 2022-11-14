@@ -1,0 +1,6 @@
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/build/function/func/CMakeFiles/func.dir
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/build/function/CMakeFiles/function.dir
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/build/function/tmp_test/CMakeFiles/tmp_test.dir
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/build/base/CMakeFiles/base.dir
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/build/CMakeFiles/test_cmake.dir
+/home/lyd/A004_VScode_Cmake_Proj/B000_standatd/B1_test_proj/c_vscode_cmake/build/src/CMakeFiles/src.dir

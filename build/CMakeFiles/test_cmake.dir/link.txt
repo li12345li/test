@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/test_cmake.dir/main.c.o  -o test_cmake -rdynamic src/libsrc.a base/libbase.a function/libfunction.a function/func/libfunc.a function/tmp_test/libtmp_test.a 
